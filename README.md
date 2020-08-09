@@ -1,5 +1,6 @@
 # Instacart_Project_Machinelearning
  Finished user segments based on time intervals and building a recommendation system by using machine  learning methods based on product choices of users
+
 Research Background:			
 
 Covid-19 has been a world spread pandemic in 2020. Thus, New Yorkers follow the quarantine policy and keep a social distance from each other. As we know, the most popular mode of transportation in NYC is by subway. However, the subway is one of the most dangerous transportation tools to spread Covid-19, which may increase the risk of having Covid-19 for subway passengers. Therefore, going out to get daily needs became a headache issue for New Yorkers. People in grocery stores are not practical to keep a social distance. During Covid-19 outbreaks, New York City published a “staying at home” order, which increased the demand for online grocery shopping. Instacart is a grocery delivery platform that has experienced rapid growth during the Covid-19 crisis. Now, users gain the value of staying home to flatten the curve and to reduce their own risk of getting the virus. Instacart makes a very compelling value proposition for users (Russel, 2020). 
